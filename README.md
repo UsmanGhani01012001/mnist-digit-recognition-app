@@ -15,5 +15,3 @@ A complete machine learning project that trains, evaluates, and deploys a handwr
 
 ---
 
-## 🗂️ Project Structure
-
